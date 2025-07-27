@@ -9,15 +9,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Current New Technologies**
 
-- 🧑‍🎓 I’m an Undergraduate at **OUSL**
+- 🧑‍🎓 I’m an Undergraduate at **RUSL**
 
 - 💬 Ask me about **Java, C#,C++**
 
-- 📫 How to reach me **fayaalpaakeer3439@gmail.com**
+- 📫 How to reach me **agfnusha@gmail.com**
   
-- ⚡ Fun fact **Call me as FYL**
+- ⚡ Fun fact **Call me as nusha**
 
 </td>
 <td width="50%" align="center">
@@ -27,10 +27,76 @@
 </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nusha825&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nusha825&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nusha825&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,express,figma,firebase,github,html,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,kubernetes,angular,ansible,cs,cpp,dart,dotnet,express,flutter,gcp,graphql,hibernate,jenkins,jquery,kafka,laravel,linux,materialui,nestjs,nextjs,nodejs,php,postgres,postman,react,redux,sass,spring,sqlite,tailwind,vite,&perline=14" />
+  </a>
+</p>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,idea,visualstudio&perline=14" />
+  </a>
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Contact  me 🤝 </h3></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://linkedin.com/in/agfnusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/nusha_fathii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.facebook.com/nushfathiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg" alt="facebook" height="50" width="50" /></a>
+ <a href="t.me/@nushafathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/telegram.svg" alt="telegram" height="50" width="50" /></a> 
+</p>
+
+
+---
+
+
+<h3 align="center"><b>📊GitHub Stats:</b></h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=nusha825&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <br></br>
+  ![](https://nirzak-streak-stats.vercel.app/?user=nusha825&theme=dark&hide_border=false)<br/>
+</td>
+<td width="50%" align="center">
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nusha825&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  </td>
+</tr>
+</table>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nusha825&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -50,3 +116,6 @@
   
   <br/><br/><br/>
 </div>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
