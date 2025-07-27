@@ -69,7 +69,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://linkedin.com/in/agfnusha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nushafathiii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/nusha_fathii/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="instagram" height="50" width="50" /></a>
 <a href="https://www.facebook.com/nushfathiii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg" alt="facebook" height="50" width="50" /></a>
 </p>
