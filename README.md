@@ -19,8 +19,6 @@
 - 💬 Ask me about **Java, C#,C++**
 
 - 📫 How to reach me **agfnusha@gmail.com**
-  
-- ⚡ Fun fact **Call me as nusha**
 
 </td>
 <td width="50%" align="center">
