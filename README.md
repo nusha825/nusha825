@@ -3,7 +3,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nusha AGF</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1EB5F7&size=25&center=true&vCenter=true&width=600&height=100&lines=UG+@+Applied+Science;Full-Stack+Developer;UI/UX+Designer;Mobile+App+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1EB5F7&size=25&center=true&vCenter=true&width=600&height=100&lines=UG+in+Applied+Science;Full-Stack+Developer;UI/UX+Designer;Mobile+App+Developer;"></a>
 </p>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nusha825&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="nusha825" /> </p>
