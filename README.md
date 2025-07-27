@@ -109,8 +109,19 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+ <br/><br/><br>
+ 
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+</div>
+ <br/><br/><br>
+
+
+
 <div align="center">
-  <h2> My Contributions </h2>
+   <h2>My Contributions Graph 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nusha825/nusha825/output/github-contribution-grid-snake-dark.svg" />
   
