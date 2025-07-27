@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Current New Technologies**
+- 🌱 I’m currently learning **Trending Technologies**
 
 - 🧑‍🎓 I’m an Undergraduate at **RUSL**
 
