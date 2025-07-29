@@ -38,10 +38,11 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,express,figma,firebase,github,html,java,js,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,kubernetes,angular,ansible,cs,cpp,dart,dotnet,express,flutter,gcp,graphql,hibernate,jenkins,jquery,kafka,laravel,linux,materialui,nestjs,nextjs,nodejs,php,postgres,postman,react,redux,sass,spring,sqlite,tailwind,vite,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,express,firebase,github,html,java,js,mongodb,mysql,nextjs,nodejs,react,tailwind,ts,vscode,kubernetes,angular,ansible,cs,cpp,dart,dotnet,express,flutter,gcp,graphql,hibernate,jenkins,jquery,kafka,laravel,materialui,nestjs,nextjs,nodejs,php,postgres,react,redux,sass,spring,sqlite,tailwind,vite,&perline=14" />
   </a>
 </p>
 
@@ -54,7 +55,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,idea,visualstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,powershell,figma,linux,idea,ps,vscode,androidstudio,bash,eclipse,postman&perline=14" />
   </a>
 </p>
 
