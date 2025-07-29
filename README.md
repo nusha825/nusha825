@@ -126,7 +126,15 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nusha825/nusha825/output/github-contribution-grid-snake-dark.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
+
+
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢! 
+<img src="https://github.com/oshadaera68/red-alpha/blob/main/Hi.gif" width="20px">
+</h5>
+</br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
